@@ -32,9 +32,11 @@ namespace ConvertColors2Triggers
                 colorTrigger.Blending = color.Blending;
                 colorTrigger.Red = color.Red;
                 colorTrigger.Green = color.Green;
+                colorTrigger.Blue = color.Blue;
                 colorTrigger.ColorID = color.ID;
                 colorTrigger.TargetChannelID = color.TargetChannelID;
                 colorTrigger.Opacity = color.Opacity;
+                colorTrigger.ColorHSV = color.ColorHSV;
                 colorTrigger.PositionY = y;
                 y += 10;
                 level.AddBlock(colorTrigger);
