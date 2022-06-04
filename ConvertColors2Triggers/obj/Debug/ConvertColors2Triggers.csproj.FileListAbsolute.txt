@@ -1,0 +1,9 @@
+C:\Users\Иван\source\repos\ConvertColors2Triggers\ConvertColors2Triggers\bin\Debug\ConvertColors2Triggers.exe.config
+C:\Users\Иван\source\repos\ConvertColors2Triggers\ConvertColors2Triggers\bin\Debug\ConvertColors2Triggers.exe
+C:\Users\Иван\source\repos\ConvertColors2Triggers\ConvertColors2Triggers\bin\Debug\ConvertColors2Triggers.pdb
+C:\Users\Иван\source\repos\ConvertColors2Triggers\ConvertColors2Triggers\bin\Debug\GeometryDashAPI.dll
+C:\Users\Иван\source\repos\ConvertColors2Triggers\ConvertColors2Triggers\obj\Debug\ConvertColors2Triggers.csproj.AssemblyReference.cache
+C:\Users\Иван\source\repos\ConvertColors2Triggers\ConvertColors2Triggers\obj\Debug\ConvertColors2Triggers.csproj.CoreCompileInputs.cache
+C:\Users\Иван\source\repos\ConvertColors2Triggers\ConvertColors2Triggers\obj\Debug\ConvertColors2Triggers.csproj.CopyComplete
+C:\Users\Иван\source\repos\ConvertColors2Triggers\ConvertColors2Triggers\obj\Debug\ConvertColors2Triggers.exe
+C:\Users\Иван\source\repos\ConvertColors2Triggers\ConvertColors2Triggers\obj\Debug\ConvertColors2Triggers.pdb
